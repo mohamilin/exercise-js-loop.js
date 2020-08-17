@@ -14,5 +14,5 @@
 let bootcamp;
 do {
     bootcamp = prompt("Sebutkan kepanjangan dari nama IB ?");
-} while (bootcamp != "impact byte");
+} while (bootcamp != "Impact Byte");
 alert("Selamat jawaban kamu benar");
