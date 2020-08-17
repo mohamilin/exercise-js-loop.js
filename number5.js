@@ -1,5 +1,5 @@
 /*
-
+CHALLENGE 5:
 5. Buat sebuah program kuis.
     Tampilkan prompt() untuk meminta inputan dari user. Tampilan teks ‘Sebutkan kepanjangan dari nama IB (Impact Byte)?’
     Lakukan pengecekan apakah jawaban dari user sudah benar
